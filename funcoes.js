@@ -11,6 +11,10 @@ function somar(numeroA, numeroB){
 
 //subtrair
 
+function subtrair(num1, num2){
+    return num1 - num2
+}
+
 //dividir
 
 //multiplicar
